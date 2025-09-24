@@ -23,4 +23,8 @@ ul {
 
 li {
   list-style: none;
+}
+
+.cursor-pointer {
+  cursor: pointer;
 }/*# sourceMappingURL=style.css.map */
